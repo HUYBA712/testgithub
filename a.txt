@@ -1,6 +1,7 @@
 Hello
 World
 
+<<<<<<< HEAD
 noi dung update
 
 dadaaadadadadad
@@ -11,3 +12,10 @@ hhahahahaha
 abcdef
 hhhhhhhhh
 hkhkhkhkh
+=======
+
+
+hiahdiadhaihdwadoadja
+daodjaodjwaoda
+dadawdwa
+>>>>>>> test
